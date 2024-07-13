@@ -6,7 +6,7 @@ Kavimo Vis3 Vue Component
 npm i @kavimo/vis3-vue
 ```
 
-# Use in Nextjs Home:
+# Use in Vue App:
 ```
 <script setup>
 import Vis3 from '@kavimo/vis3-vue';
