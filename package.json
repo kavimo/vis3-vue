@@ -1,0 +1,33 @@
+{
+  "name": "@kavimo/vis3-vue",
+  "version": "1.0.0",
+  "description": "Kavimo Vis3 Vue Component",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build --target lib --name vis3-vue src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavimo/vis3-vue.git"
+  },
+  "keywords": [
+    "kavimo",
+    "vis3",
+    "kavimo-vis3",
+    "vis3-vue",
+    "vis-vue"
+  ],
+  "author": "Kavimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavimo/vis3-vue/issues"
+  },
+  "homepage": "https://github.com/kavimo/vis3-vue#readme",
+  "dependencies": {
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.19",
+    "vue-template-compiler": "^2.6.12"
+  }
+}

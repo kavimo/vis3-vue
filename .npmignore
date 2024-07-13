@@ -1,0 +1,17 @@
+# dependencies
+/.github
+/node_modules
+/.pnp
+.pnp.js
+.babelrc
+.yarn/install-state.gz
+
+# production
+/build
+/src
+
+# misc
+.DS_Store
+*.pem
+
+!.gitignore
